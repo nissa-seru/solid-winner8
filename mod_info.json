@@ -7,4 +7,5 @@
     "description": "Let you see stats usually hidden but useful to know!",
     "gameVersion": "0.95.1a-RC6",
 	"jars":["jars/TooMuchInformation.jar"],
+	"modPlugin":"data.hullmods.TMI_modPlugin",
 }
