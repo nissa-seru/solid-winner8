@@ -2,4 +2,9 @@
   "designTypeColors":{
       "TMI":[221,201,104,255],
   },
+	"graphics":{
+		"characters":{
+			"eis_ava":"graphics/portraits/vic_jeremy_tv.jpg",
+		},
+	},
 }
