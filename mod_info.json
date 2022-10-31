@@ -3,7 +3,7 @@
     "name": "Too Much Information",
     "author": "Timid",
     "utility": "false",
-    "version": "0.94",
+    "version": "0.95",
     "description": "Let you see stats usually hidden but useful to know!",
     "gameVersion": "0.95.1a-RC6",
 	"jars":["jars/TooMuchInformation.jar"],

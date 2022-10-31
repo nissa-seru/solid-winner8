@@ -75,6 +75,8 @@
 		"fluxsec":"Flux/sec",
 		"fluxsecrate":"Flux/sec (vent)",
 		"fluxseccap":"Flux/sec (cap)",
+		"buyingprice":"Buying price",
+		"sellingprice":"Selling price",
 	
 		"rapid_reform":"Lagging wing members catch up more quickly",
 		"leader_no_swarm":"Leader will start a new attack run on reaching target",
