@@ -45,7 +45,7 @@
 		"spreadshot":"Spread/shot", 
 		"spreaddecaysec":"Spread decay/sec", 
 		"projectilespeed":"Projectile speed", 
-		"autofireaccuracybonus":"Autofire accuracy bonus",
+		"autofireaccuracybonus":"Autofire accuracy",
 		"missilehitpoints":"Missile hitpoints",	
 		"missiletopspeed":"Missile top speed",	
 		"missileacceleration":"Missile acceleration",	
@@ -57,6 +57,9 @@
 		"maxflighttime":"Missile lifetime",
 		"explosionradius":"Explosion radius",
 		"basereplacementtime":"Base replacement time",
+		"relaunchtime":"Average relaunch time",
+		"supportrange":"Support range",
+		"engagementrange":"Engagement range",
 		"attackrunrange":"Attack run range",
 		"attackpositionoffset":"Attack position offset",
 		"fluxcapacity":"Flux capacity",
@@ -77,6 +80,8 @@
 		"fluxseccap":"Flux/sec (cap)",
 		"buyingprice":"Buying price",
 		"sellingprice":"Selling price",
+		
+		"nex_miningstrength":"Mining strength", #Used in Nexerelin to determine the variant's mining strength. Cannot be used for weapons, wings, or others. Only the ship's variant!
 	
 		"rapid_reform":"Lagging wing members catch up more quickly",
 		"leader_no_swarm":"Leader will start a new attack run on reaching target",
