@@ -141,7 +141,7 @@
 		"WEAPONS_FRONT_TO_BACK":"Changes tiebreaker for weapon render order to be distance from front of ship",
 		"WEAPONS_BACK_TO_FRONT":"Changes tiebreaker for weapon render order to be distance from back of ship",
 		
-		#Hi I'm very lazy I dont wanna document it, so I just made the link
+		#Hi I'm very lazy I don't wanna document it, so I just made the link
 		"DO_NOT_SHOW_MODULES_IN_FLEET_LIST":"https://fractalsoftworks.com/forum/index.php?topic=19126",
 		"RENDER_ENGINES_BELOW_HULL":"https://fractalsoftworks.com/forum/index.php?topic=19360",
 
